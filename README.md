@@ -187,4 +187,4 @@ This collaborative troubleshooting experience was invaluable in overcoming the i
 This capstone project provided a comprehensive learning experience in deploying an e-commerce platform using Git, Linux, and AWS. Throughout the process, I gained hands-on experience with version control, server management, and continuous integration workflows. The challenges I encountered, particularly with accessing the server's IP address, emphasized the importance of troubleshooting skills and collaboration.
 
 Successfully deploying the MarketPeak e-commerce platform was a significant achievement, as it involved not only technical knowledge but also problem-solving and teamwork. The final result is a functional website that can be accessed and managed remotely, laying a strong foundation for future enhancements and scaling. This project has solidified my understanding of cloud-based deployments and prepared me for more advanced projects in the future.
-```
+
